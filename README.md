@@ -1,5 +1,5 @@
-# VUT ABC Algorithm
-VUT ABC Project (Artificial Bee Colony)
+# ABC Algorithm
+ABC Project (Artificial Bee Colony). Made by me for VUT Brno ❤️.
 
 # How to
 1. Download files and open them in Matlab
